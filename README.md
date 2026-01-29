@@ -1,2 +1,2 @@
 # tailgating-demo
-demo for hackathon
+Demo for hackathon
